@@ -1,2 +1,2 @@
 # Stock-prediction
-predicting the stock price of a company  
+predicting the stock price of amazon 
